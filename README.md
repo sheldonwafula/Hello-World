@@ -38,7 +38,7 @@
 
 # 📖 [Hello world] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+
 
 **[Hello world]** is the first project at microverse with tests on gitflow and linter errors.
 
@@ -63,7 +63,6 @@
 
 ### Key Features <a name="Heading"></a>
 
-> Describe between 1-3 key features of the application.
 
 - **[Heading]**
 -
@@ -109,7 +108,7 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="Sheldon"></a>
 
-> Mention all of the collaborators of this project.
+
 
 👤 **Sheldon**
 
@@ -121,7 +120,6 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[nav-bar]**
 - [ ] **[landing-page]**
